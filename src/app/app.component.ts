@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'crud-local';
+  title = 'CRUD utilizando localStorage com Angular 7.3.3';
 }
